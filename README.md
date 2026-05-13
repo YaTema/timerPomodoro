@@ -28,3 +28,5 @@ index.html
 style.css
 script.js
 sound.mp3
+
+![Главный экран](image.png)
