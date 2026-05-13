@@ -29,4 +29,4 @@ style.css
 script.js
 sound.mp3
 
-![Главный экран](image.png)
+![Главный экран](./Screenshot_1.png)
